@@ -1,13 +1,18 @@
+
 <!DOCTYPE html>
 <html>
 <body>
 
-<h2>Width and Height Attributes</h2>
+<h1>This is heading 1</h1>
+<p>This is some text.</p>
+<hr>
 
-<p>The width and height attributes of the img tag, defines the width and height of the image:</p>
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
+<hr>
 
-<img src="img_girl.jpg" width="500" height="600">
+<h2>This is heading 2</h2>
+<p>This is some other text.</p>
 
 </body>
 </html>
-
